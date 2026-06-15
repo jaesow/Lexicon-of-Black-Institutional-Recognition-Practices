@@ -1,0 +1,13 @@
+node_type,paper_node_family,count,examples,description
+Concept,Concept / value,5,"Institutional, Cultural, and Community Memory; Black Institutional Knowledge Production; Open Public Access","Conceptual or value-bearing node derived from mission, rights, memory, access, or recognition language."
+InstitutionGroup,Institution / Organization,1,Historically Black Colleges and Universities,Institutional or organizational actor named in the source corpus.
+Organization,Institution / Organization,7,HBCU Digital Library Trust; HBCU Library Alliance; Harvard Library,Institutional or organizational actor named in the source corpus.
+Vendor,Institution / Organization,1,Trusted audiovisual vendor,Institutional or organizational actor named in the source corpus.
+Role,Labor role,8,Program Director; Program Coordinator; Digitization Project Manager,Role made visible as knowledge-infrastructure labor rather than background support.
+ObjectClass,Material / Memory object,5,Archival Materials; Photographs; Audio and Video Recordings,Archival or memory material named in material-format or research documentation.
+DataObject,Metadata / rights / file object,6,Metadata Records; Rights Statements; Access Files,"Description, rights, identifier, OCR, access, or preservation object created by the workflow."
+Infrastructure,Platform / Infrastructure,1,Digitization Hub,"Technical or institutional infrastructure that supports preservation, access, hosting, or digitization."
+Platform,Platform / Infrastructure,1,CONTENTdm,"Technical or institutional infrastructure that supports preservation, access, hosting, or digitization."
+PreservationNetwork,Platform / Infrastructure,1,Alabama Digital Preservation Network,"Technical or institutional infrastructure that supports preservation, access, hosting, or digitization."
+Repository,Platform / Infrastructure,1,HBCU Digital Collection,"Technical or institutional infrastructure that supports preservation, access, hosting, or digitization."
+UserGroup,User / Public,1,Researchers / Students / Public Users,Users or publics named or implied by access and research documentation.

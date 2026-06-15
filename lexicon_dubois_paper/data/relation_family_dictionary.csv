@@ -1,0 +1,22 @@
+relation_family,count_edges,relation_terms,source_groundings,paper_use
+access,2,PROVIDES_ACCESS_TO,mission_access_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+capacity,4,BUILDS_CAPACITY_WITH; CONTRIBUTES_RESOURCES_TO; SUPPORTS,mission_language; partnership_resource_language; support_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+care,1,HANDLES_WITH_CARE,direct_workflow_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+collaboration,5,COLLABORATES_WITH; PARTNERS_WITH; PREVIEWS_WITH,direct_workflow_language; partnership_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+context,1,RESTORE_CONTEXT_TO,metadata_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+contribution,1,CONTRIBUTE,institutional_participation_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+digitization,3,DIGITIZES; PERFORMS_IMAGE_TREATMENT_ON; SCANS,direct_workflow_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+funding,2,FUNDS,funding_partnership_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+history,1,COLLABORATED_WITH,historical_partnership_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+infrastructure,4,HOSTS; SERVES_AS; UPLOADS_TO,direct_workflow_language; institutional_role_language; platform_hosting_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+material,4,INCLUDE,material_format_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+memory,1,SUSTAINS,mission_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+metadata,3,CREATES_METADATA_FOR; DESCRIBE; LINK_COMMONALITY_ACROSS,metadata_language; metadata_research_language; metadata_workflow_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+metadata_ethics,1,SHOULD_BE,metadata_guidance_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+preservation,3,PRESERVES; PRESERVES_COPIES_OF; REHOUSES,direct_workflow_language; mission_language; preservation_infrastructure_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+recognition,1,ACKNOWLEDGES_AND_CELEBRATES,mission_value_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+research_use,6,ACCESS; USE,metadata_or_research_language; research_access_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+return,2,RETURNS_TO,direct_workflow_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+rights,3,PROTECT; RETAINS_OWNERSHIP_OF,rights_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+selection,1,SELECT,selection_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
+workflow,9,ASSIGNS; ASSISTS_WITH_PACKING_AND_ORGANIZATION_OF; ASSISTS_WITH_SELECTION_OF; CATALOGS; CREATES; QUALITY_CHECKS; RECEIVES; TRACKS,direct_workflow_language,Analytic grouping used to discuss source-derived relations without flattening the original verbs.
