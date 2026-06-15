@@ -7,6 +7,8 @@ This folder contains a minimal methodological artifact for Jenaba Sow's Informat
 
 The artifact prototypes a graph-based relational lexicon for representing Black institutional recognition practices in HBCU archival infrastructure. It models relations of preservation, description, digitization, rights, access, return, stewardship, collaboration, recognition, and memory that are often invisible in conventional citation or bibliography maps.
 
+[Read more about the project](https://www.notion.so/A-Lexicon-of-Black-Institutional-Recognition-Practices-Graph-Modeling-HBCU-Archival-Infrastructure-38090b9a0aa480a78807c8bf5328c1be?source=copy_link)
+
 ## Method in one sentence
 
 This is a script-assisted qualitative graph construction pipeline: HBCU Digital Library Trust documentation is transformed into auditable page-level text, candidate relations, normalized nodes, evidence-bearing edges, an expanded relational lexicon, and graph previews for qualitative evaluation.
